@@ -1,4 +1,4 @@
-==Basic Site==
+==Basic Site
 
 This is a basic site. It will have authorization and things of that nature. Also going to include exif tagging and some thumbnail functionality.
 
