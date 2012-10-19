@@ -11,3 +11,16 @@
 .status p {
 	margin: 4px 0;
 }
+
+.status.hover {
+	background: #F0FAFA;
+
+}
+
+.status .admin {
+	display: none;
+}
+
+.status.hover .admin {
+	display: inline;
+}
