@@ -6,7 +6,7 @@ gem 'rails', '3.2.6'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
-
+gem 'devise'
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -30,6 +30,8 @@ gem 'jquery-rails'
 
 # Use unicorn as the app server
  gem 'unicorn', '= 3.7.0'
+ 
+ 
 
 # Deploy with Capistrano
 # gem 'capistrano'
