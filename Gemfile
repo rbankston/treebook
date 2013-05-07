@@ -30,7 +30,7 @@ gem 'jquery-rails'
 # gem 'jbuilder'
 
 # Use unicorn as the app server
- gem 'unicorn', '= 3.7.0'
+ #gem 'unicorn', '= 3.7.0'
  
  
  
