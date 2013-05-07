@@ -5,7 +5,7 @@ gem 'rails', '3.2.10'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-gem 'sqlite3'
+gem 'pg'
 gem 'devise'
 gem 'simple_form'
 
@@ -31,6 +31,7 @@ gem 'jquery-rails'
 
 # Use unicorn as the app server
  gem 'unicorn', '= 3.7.0'
+ 
  
  
 
